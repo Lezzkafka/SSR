@@ -21,16 +21,21 @@ Core Committee members are expected to take an active interest in all topics bro
 
 # Managing the website
 
+coming soon
+
+https://spaco.io/ssr
 
 
 
-# Working Groups
 
-Working Groups are principally responsible for the development of the content of a SSR. Members of a Working Group are expected to be actively engaged in the development of a SSR and in discussions relating to it.
 
-Members of the general public may apply to join the Working Group at any time, subject to the approval of the Editor or Sponsor if, in their judgment, the applicant’s experience and perspective would be particularly valuable to the development of the specification. Project Representatives or a proxy they specify may apply to join the Working Group at any time, unless objected to by the Editor or Sponsor if, in their judgement, the applicant has little value to offer the process and/or would be disruptive to the smooth functioning of the Working Group.
+# Spaco Enginerring  Groups(SEG)
 
-A Working Group member may be removed at any time by the Editor and Sponsor if, in their judgement, the individual has become inactive for more than 30 days or if the individual is disruptive to the smooth functioning of the Working Group.
+Spaco Enginerring  Groups are principally responsible for the development of the content of a SSR. Members of a Spaco Enginerring Group are expected to be actively engaged in the development of a SSR and in discussions relating to it.
+
+Members of the general public may apply to join the Spaco Enginerring Group at any time, subject to the approval of the Editor or Sponsor if, in their judgment, the applicant’s experience and perspective would be particularly valuable to the development of the specification. Project Representatives or a proxy they specify may apply to join the Spaco Enginerring Group at any time, unless objected to by the Editor or Sponsor if, in their judgement, the applicant has little value to offer the process and/or would be disruptive to the smooth functioning of the Spaco Enginerring Group.
+
+A Spaco Enginerring Group member may be removed at any time by the Editor and Sponsor if, in their judgement, the individual has become inactive for more than 180 days or if the individual is disruptive to the smooth functioning of the Spaco Enginerring Group.
 
 # Editor
 
@@ -38,4 +43,4 @@ The Editor of a SSR is an individual who is actively involved in managing and tr
 
 # Sponsor
 
-A SSR must be sponsored by a member of the Core Committee. That individual is the Sponsor. The Sponsor may not also be the Editor. One person may be the sponsor on multiple SSRs and they provide a level of oversight on the SSR’s drafting on behalf of the Core Committee, and representation of the SSR Working Group to the Core Committee. Multiple other Core Committee members may also be on the working group if they wish.
+A SSR must be sponsored by a member of the Core Committee. That individual is the Sponsor. The Sponsor may not also be the Editor. One person may be the sponsor on multiple SSRs and they provide a level of oversight on the SSR’s drafting on behalf of the Core Committee, and representation of the SSR Working Group to the Core Committee. Multiple other Core Committee members may also be on the Spaco Enginerring Group if they wish.
