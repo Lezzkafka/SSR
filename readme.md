@@ -5,7 +5,7 @@ The Spaco Interoperability Group (The Spaco IG) aims to advance the Spaco ecosys
 
 ## Member Projects
 
-The Spaco IG member projects are known, publicly available Spaco projects, significant holders and organizations that have shown an interest in supporting the Spaco IG’s mission and work. Member Projects must be released projects with known production deployments, not aspirational projects. Member Projects are required to implement any particular SSR and expected to give relevant SSRs due consideration.
+The Spaco IG member projects are known, publicly available Spaco projects, significant holders and organizations that have shown an interest in supporting the Spaco IG’s mission and work.  Member Projects are required to implement any particular SSR and expected to give relevant SSRs due consideration.
 
 Projects may leverage code, libraries, or frameworks from other projects without being disqualified. In cases where that distinction is unclear that Project Representatives should use their best judgment to implement the spirit of this clause.
 
