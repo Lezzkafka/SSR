@@ -23,7 +23,6 @@ Core Committee members are expected to take an active interest in all topics bro
 
 coming soon
 
-https://spaco.io/ssr
 
 
 ## Spaco Enginerring Groups(SEG)
