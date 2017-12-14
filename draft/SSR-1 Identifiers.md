@@ -1,6 +1,7 @@
 
 # Abstract
 Every Entities Identities
+
 # Motivation
 # Specification
 # Backward compatibility
