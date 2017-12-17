@@ -11,6 +11,7 @@ The current Internet hardware and software architecture in the design of some fu
 * DNS will be hijacked
 * Service providers will  be forged
 
+These issues lead to the current Internet architecture, which requires additional technology and experience to build a credible and secure environment
 
 # Specification
 
@@ -18,13 +19,14 @@ In the Spaco network, we believe that any device, software, or individual needs 
 In the network, any person equipment, software, personal, services need to use public key system to identify.
 
 * The public key address equals the current Internet IP address in the Spaco network.
-* The public key address can also be the device, the software's blockchina wallet address
+* The wallet address corresponding to the device, service, etc. can be generated from the public key address
 * The public key address is also the service address
 
-The sender of the data should sign the data sent. The recipient of the data needs to verify the data received. Once the data sent by the sender and the signature do not match, the sender of the data should be included in the list of suspicious or black List.
+The sender of the data should sign the data sent. The recipient of the data needs to verify the data received. Once the data sent by the sender and the signature do not match, the sender of the data should be included in the list of suspicious or black List, broadcast to the whole network, so that fraud users have great economic costs.
 
-The wallet address can be generated from the public key address
+:![](images/signature-failed.png)
 
+If node A sends fake data to the node B and the signature can not be successfully verified, node B will inform node D,E,F that node A is a dishonest node, so that node A can be set to be untrusted in subsequent interactions
 
 # Backward compatibility
 
